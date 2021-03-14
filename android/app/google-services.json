@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "564439758376",
+    "project_id": "hakiki-f3df5",
+    "storage_bucket": "hakiki-f3df5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564439758376:android:8add7ca07db3f70a96271d",
+        "android_client_info": {
+          "package_name": "com.example.hakiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564439758376-bf6714g6igjsvk500ts6vsek8boo1vp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hakiki",
+            "certificate_hash": "88a5eed68a5774e86defdc0590515e187979ef5a"
+          }
+        },
+        {
+          "client_id": "564439758376-78c19mvr14nuddmns94ldibh5nv010g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD59GMj21VGppqaBXN4nuBTx04sngMmzWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564439758376-78c19mvr14nuddmns94ldibh5nv010g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
